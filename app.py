@@ -4,4 +4,4 @@ print("Testuoju...")
 print("Kito zmogaus pakeitimas")
 
 
-print("Sita pridedu online"
+print("Sita pridedu online")
